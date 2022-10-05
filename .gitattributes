@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# AsseblyScript source file
+# I currently don't know what extension AssemblyScript uses (or if it even has its own) so *.as is being used as a placeholder for now.
+*.as linguist-detectable=true
+*.as linguist-documentation=false
+*.as linguist-language=AssemblyScript
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +169,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Wednesday, October 5th at 1:37 pm PST)
+# Line count (including blank lines and compiler line): 176
 # End of script
